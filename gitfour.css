@@ -1,0 +1,19 @@
+p{
+    background-color: tomato;
+
+}
+
+.div{
+    background-color: #dddd;
+    width: 30%;
+    height: 400px;
+
+}
+.div,h3{
+    text-align: center;
+    margin: auto;
+   
+}
+.hello{
+    padding-top: 200px;
+}
